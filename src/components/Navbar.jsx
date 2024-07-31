@@ -27,7 +27,7 @@ const Navbar = () => {
 
   return (
     <nav className={`
-      px-2 xs:w-full max-w-full xxs:w-[350px] xxs:w-[320px] flex items-center py-2 fixed top-0 z-10 ${scrolled ? 'bg-tertiary' : 'bg-transparent'}`}>
+      px-2 xs:w-full max-w-full xxs:w-[350px] xxs:w-[350px] flex items-center py-2 fixed top-0 z-10 ${scrolled ? 'bg-tertiary' : 'bg-transparent'}`}>
       <div className="w-full flex flex-row justify-between items-center max-w-8xl mx-2">
         <Link to="/" 
         className="flex justify-self-end items-center gap-2"
