@@ -18,7 +18,7 @@ const App=() => {
     }
   },[])
   return (
-    <BrowserRouter basename='/vitronix-vitb/'>
+    <BrowserRouter>
     <div className='relative z-0 bg-tertiary'>
       <div className= {`bg-cover bg-center bg-gradient-to-t from-black/100 to-transparent ${isMobile ? ' bg-hero-mobile bg-fixed' : 'bg-hero-pattern bg-fixed'}`}>
         <Navbar/>
