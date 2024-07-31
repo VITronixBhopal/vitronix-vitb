@@ -28,6 +28,7 @@ export const theme = {
     },
     screens: {
       xs: "450px",
+      xxs: "300px",
     },
     backgroundImage: {
       "hero-pattern": "url('/src/assets/dashboard.png')",
