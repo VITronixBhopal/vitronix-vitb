@@ -36,7 +36,7 @@ const Navbar = () => {
           window.scrollTo(0,0);
         }}
         >
-          <img src={logo} alt="logo" className="w-auto h-auto object-contain" />
+          <img src={logo} alt="logo" className="w-auto md:h-auto xxs:h-12 object-contain" />
         </Link>
         <ul className='list-none hidden sm:flex md:px-[8px] px-[4px] font-rollbox flex-row lg:gap-10'>
           {navLinks.map((link)=>(
