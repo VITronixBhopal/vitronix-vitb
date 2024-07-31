@@ -45,7 +45,7 @@ const Hero = () => {
               </motion.button>
             </div>
           </div>
-          <div className={`absolute items-center h-full bg-transparent bg-fixed object-contain w-[600px] inset-y-0 xl:right-0 lg:right-[-60px] md:right-[-90px] xxs:right-[-120px] xs:right-[-60px] sm:top-[180px] xxs:top-[180px] md:inset-y-0`}>
+          <div className={`absolute items-center h-full bg-transparent bg-fixed object-contain w-[600px] inset-y-0 xl:right-0 lg:right-[-60px] md:right-[-90px] xxs:right-[-120px] xs:right-[-60px] sm:top-[180px] xxs:top-[150px] md:inset-y-0`}>
             <ComputersCanvas/>
           </div>
       </div>
