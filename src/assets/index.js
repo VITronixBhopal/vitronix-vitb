@@ -22,6 +22,10 @@ import Bhaskar from "./teamMembers/Bhaskar.jpg"
 import Bhavya from "./teamMembers/Bhavya.jpg"
 import Charul from "./teamMembers/Charul.jpg"
 import Suyash from "./teamMembers/Suyash.jpg"
+import Tamsa from "./teamMembers/Tamsa.jpg"
+import Aarav from "./teamMembers/Aarav.jpg"
+import Harsh from "./teamMembers/Harsh.jpg"
+import Shivang from "./teamMembers/Shivang.jpg"
 
 
 export{
@@ -41,6 +45,10 @@ export{
     Bhavya,
     Bhaskar,
     Suyash,
+    Tamsa,
+    Aarav,
+    Harsh,
+    Shivang,
     favicon,
     xpotech,
     xpotech1,
