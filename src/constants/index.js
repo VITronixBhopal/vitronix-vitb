@@ -77,6 +77,12 @@ export const navLinks = [
       description:""
     },
     {
+      name:"Shivang Shah",
+      role:"Programming Head",
+      photo:Shivang,
+      description:""
+    },
+    {
       name:"Samradh Jindal",
       role:"Event Management Chief",
       photo:Samradh,
@@ -88,11 +94,29 @@ export const navLinks = [
       photo:Suyash,
       description:""
     },
+    {
+      name:"Harsh Rai",
+      role:"Event Management Co-Head",
+      photo:Harsh,
+      description:""
+    },
+    {
+      name:"Aarav Chowksey",
+      role:"Event Management Co-Head",
+      photo:Aarav,
+      description:"",
+    },
     
     {
       name:"Bhavya Pratap",
       role:"Social Media Head",
       photo:Bhavya,
+      description:""
+    },
+    {
+      name:"Tamsa Sandeep Karwa",
+      role:"Social Media Co-Head",
+      photo:Tamsa,
       description:""
     },
     {
@@ -102,7 +126,6 @@ export const navLinks = [
       description:""
     },
     
-
   ];
 
   const experiences = [
