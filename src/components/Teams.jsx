@@ -8,7 +8,7 @@ import { fadeIn } from '../utils/motion'
 
 const MemberCard= ({children,key,photo,...props})=> (
   <motion.div {...props} variants={fadeIn("up","spring",key*0.2,0.75)} className='relative xxs:max-w-[180px] md:max-w-[250px] overflow-hidden rounded-2xl shadow-lg group'>
-    <img src={photo} alt='key' className='transition-transform group-hover:scale-110 duration-200 w-auto xxs:h-[200px] md:h-[280px]'/>
+    <img src={photo} alt='key' className='transition-transform group-hover:scale-110 duration-200 w-auto xxs:h-[160px] md:h-[280px]'/>
     <div className='absolute inset-0 flex items-end bg-gradient-to-t from-black/60 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-200'>
     <div className='p-4 text-white'>{children}</div>
     </div>
