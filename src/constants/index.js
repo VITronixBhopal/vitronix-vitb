@@ -130,6 +130,21 @@ export const navLinks = [
 
   const experiences = [
     {
+      title: "CIRCUIT SPRINT",
+      icon: favicon,
+      iconBg: "#E6DEDD",
+      date: "16th & 17th December 2024",
+      photo: circuit,
+      carousel: [circuit],
+      points: [
+        "A two-day event that combined learning and excitement.",
+        "On Day 1, the workshop helped participants learn and create their own robots.",
+        "There was Team assembling, programming, and speed machine testing in an environment",
+        "On Day 2 robots were raced to victory in RoboRace.",
+        "Amazing networking was observed.",
+      ],
+    }
+    {
       title: "ELECTRO-CRAFT",
       icon: favicon,
       iconBg: "#383E56",
@@ -137,10 +152,9 @@ export const navLinks = [
       photo: electro,
       carousel: [electro,],
       points: [
-        "Special gifts for outstanding performances during the event!",
-        "Engage with experts and gain insights from their vast experience.",
-        "Interactive Q&A sessions to clear all your doubts.",
-        "Networking opportunities with fellow electronics enthusiasts.",
+        "It was focused on practical applications using TinkerCAD for virtual prototyping, guiding participants from basic circuitry to advanced projects.",
+        "Featured an amazing chance to interact with experts and learn valuable insights in the boot camp",
+        "The interactive Q&A session helped clear the doubts of many aspiring engineers.",
       ],
     },
     {
