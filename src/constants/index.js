@@ -1,5 +1,5 @@
 import { innoxify1, xpotech1, xpotech2, xpotech3, Charul} from '../assets'
-import { xpotech,innoxify,electro,circuit } from '../assets';
+import { xpotech,innoxify,electro,circuit} from '../assets';
 import { favicon } from '../assets';
 import { fCoordinator,fcoCoordinator,Aman,Nishant,Prashant,Samradh,Shrivardhan,Sagnika,Bhavya,Bhaskar,Suyash,Tamsa,Shivang,Aarav,Harsh } from '../assets';
 
