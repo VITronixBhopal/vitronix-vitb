@@ -143,7 +143,7 @@ export const navLinks = [
         "On Day 2 robots were raced to victory in RoboRace.",
         "Amazing networking was observed.",
       ],
-    }
+    },
     {
       title: "ELECTRO-CRAFT",
       icon: favicon,
