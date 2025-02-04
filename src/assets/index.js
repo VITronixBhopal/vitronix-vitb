@@ -2,6 +2,7 @@ import logo from "./logo.svg";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import vit from "./vit.png"
+import circuit from "./Events/circuit.png"
 import xpotech from "./Events/xpotech.png"
 import xpotech1 from "./Events/xpotech1.jpeg"
 import xpotech2 from "./Events/xpotech2.jpeg"
@@ -29,6 +30,7 @@ import Shivang from "./teamMembers/Shivang.jpg"
 
 
 export{
+    circuit,
     logo,
     menu,
     close,
