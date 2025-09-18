@@ -134,7 +134,7 @@ export const navLinks = [
       title: "ELECTRO NOVA",
       icon: favicon,
       iconBg: "#E6DEDD",
-      date: "18th September 2024",
+      date: "18th September 2025",
       photo: nova,
       carousel: [nova],
       points: [
