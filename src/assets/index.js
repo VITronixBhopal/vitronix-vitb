@@ -29,8 +29,18 @@ import Tamsa from "./teamMembers/Tamsa.jpg"
 import Aarav from "./teamMembers/Aarav.jpg"
 import Harsh from "./teamMembers/Harsh.jpg"
 import Shivang from "./teamMembers/Shivang.jpg"
-
-
+import pres from "./teamMembers/pres.png"
+import vice from "./teamMembers/vice.png"
+import gensec from "./teamMembers/gensec.png"
+import contentlead from "./teamMembers/contentlead.png"
+import treasurer from "./teamMembers/treas.png"
+import designlead from "./teamMembers/designlead.png"
+import discplinelead from "./teamMembers/disciplinelead.png"
+import financelead from "./teamMembers/financelead.png"
+import electronicslead from "./teamMembers/electronicslead.png"
+import logisticslead from "./teamMembers/logisticslead.png"
+import programminglead from "./teamMembers/programminglead.png"
+import prlead from "./teamMembers/prlead.png"
 export{
     circuit,
     logo,
@@ -63,4 +73,16 @@ export{
     electro,
     nova,
     sky,
+    pres,
+    vice,
+    gensec,
+    contentlead,
+    treasurer,
+    designlead,
+    discplinelead,
+    financelead,
+    electronicslead,
+    logisticslead,
+    prlead,
+    programminglead,
 };
