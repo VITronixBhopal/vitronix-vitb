@@ -129,6 +129,33 @@ export const navLinks = [
   ];
 
   const experiences = [
+      
+    {
+      title: "ELECTRO NOVA",
+      icon: favicon,
+      iconBg: "#E6DEDD",
+      date: "18th September 2024",
+      photo: nova,
+      carousel: [nova],
+      points: [
+          "ElectroNova event, we're taking learning to the next level.",
+          "This electronics and IoT workshop offers students the chance to build and control their own RC cars and plabes",
+          "We explored live applications, giving you practical skills and a thrilling experience in a rapidly growing field.",
+      ],
+    },
+    {
+      title: "SKY EXPLORERS",
+      icon: favicon,
+      iconBg: "#383E56",
+      date: "21st February 2025",
+      photo: sky,
+      carousel: [sky],
+      points: [
+        "Students dove into the world of RC vehicles, building their own cars and planes from the ground up.",
+        "The hands-on experience provided an unforgettable day of learning, creation, and high-flying fun.",
+        "Don't just dream—build and fly!",
+      ],
+    },
     {
       title: "CIRCUIT SPRINT",
       icon: favicon,
