@@ -28,6 +28,7 @@ import logisticslead from "./teamMembers/logisticslead.png"
 import programminglead from "./teamMembers/programminglead.png"
 import prlead from "./teamMembers/prlead.png"
 import sociallead from "./teamMembers/sociallead.png"
+import jointsec from "./teamMembers/jointsec.png"
 export{
     circuit,
     logo,
@@ -59,4 +60,5 @@ export{
     prlead,
     programminglead,
     sociallead,
+    jointsec,
 };

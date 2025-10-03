@@ -1,7 +1,7 @@
 import { innoxify1, xpotech1, xpotech2, xpotech3} from '../assets'
 import { xpotech,innoxify,electro,circuit,nova,sky} from '../assets';
 import { favicon } from '../assets';
-import { fCoordinator, fcoCoordinator, pres, vice, gensec, contentlead, treasurer, designlead, discplinelead, financelead, electronicslead, logisticslead, prlead, programminglead,sociallead,} from '../assets';
+import { fCoordinator, fcoCoordinator, pres, vice, gensec, contentlead, treasurer, designlead, discplinelead, financelead, electronicslead, logisticslead, prlead, programminglead,sociallead,jointsec,} from '../assets';
 export const navLinks = [
     {
       id: "home",
@@ -55,6 +55,12 @@ export const navLinks = [
       name:"Aastha Patel",
       role:"General Secretary",
       photo:gensec,
+      description:""
+    },
+    {
+      name:"Rhythm Dhangar",
+      role:"Joint Secretary",
+      photo:jointsec,
       description:""
     },
     {
