@@ -15,20 +15,6 @@ import sky from "./Events/sky.png"
 import favicon from "./favicon.svg"
 import fCoordinator from "./teamMembers/fCoordinator.png"
 import fcoCoordinator from "./teamMembers/fcoCoordinator.png"
-import Aman from "./teamMembers/Aman.jpg"
-import Nishant from "./teamMembers/Nishant.jpg"
-import Prashant from "./teamMembers/Prashant.jpg"
-import Samradh from "./teamMembers/Samradh.jpg"
-import Shrivardhan from "./teamMembers/Shrivardhan.jpg"
-import Sagnika from "./teamMembers/Sagnika.jpg"
-import Bhaskar from "./teamMembers/Bhaskar.jpg"
-import Bhavya from "./teamMembers/Bhavya.jpg"
-import Charul from "./teamMembers/Charul.jpg"
-import Suyash from "./teamMembers/Suyash.jpg"
-import Tamsa from "./teamMembers/Tamsa.jpg"
-import Aarav from "./teamMembers/Aarav.jpg"
-import Harsh from "./teamMembers/Harsh.jpg"
-import Shivang from "./teamMembers/Shivang.jpg"
 import pres from "./teamMembers/pres.png"
 import vice from "./teamMembers/vice.png"
 import gensec from "./teamMembers/gensec.png"
@@ -41,6 +27,7 @@ import electronicslead from "./teamMembers/electronicslead.png"
 import logisticslead from "./teamMembers/logisticslead.png"
 import programminglead from "./teamMembers/programminglead.png"
 import prlead from "./teamMembers/prlead.png"
+import sociallead from "./teamMembers/sociallead.png"
 export{
     circuit,
     logo,
@@ -49,20 +36,6 @@ export{
     vit,
     fCoordinator,
     fcoCoordinator,
-    Aman,
-    Nishant,
-    Prashant,
-    Charul,
-    Samradh,
-    Shrivardhan,
-    Sagnika,
-    Bhavya,
-    Bhaskar,
-    Suyash,
-    Tamsa,
-    Aarav,
-    Harsh,
-    Shivang,
     favicon,
     xpotech,
     xpotech1,
@@ -85,4 +58,5 @@ export{
     logisticslead,
     prlead,
     programminglead,
+    sociallead,
 };

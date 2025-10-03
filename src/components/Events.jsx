@@ -23,7 +23,14 @@ const EventCard= ({key,experience,openCarousel})=> (
       <Tilt className="xs:w-[250px] w-full">
         <motion.div variants={fadeIn("right","spring",0.5*key,0.75)} className="w-full green-pink-gradient p-1 rounded-[20px] shadow-card">
         <div options={{ max:45, scale:1, speed:450}} className="bg-tertiary rounded-[20px] min-h-[280px] flex justify-evenly items-center flex-col">
-          <img src={experience.photo} alt={key} className="w-full h-full rounded-[20px]" loading="lazy" onClick={() => openCarousel(experience.carousel, key)} />
+          <img 
+            src={experience.photo} 
+            alt={experience.title || 'Event Poster'} 
+            className="w-full h-full rounded-[20px]" 
+            loading="lazy" 
+            onClick={() => openCarousel(experience.carousel, key)} 
+            onError={e => { e.target.onerror = null; e.target.src = '/src/assets/Events/circuit.png'; }} // fallback image
+          />
         </div>
         </motion.div>
       </Tilt>

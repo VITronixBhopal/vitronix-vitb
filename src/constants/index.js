@@ -1,8 +1,7 @@
-import { innoxify1, xpotech1, xpotech2, xpotech3, Charul} from '../assets'
+import { innoxify1, xpotech1, xpotech2, xpotech3} from '../assets'
 import { xpotech,innoxify,electro,circuit,nova,sky} from '../assets';
 import { favicon } from '../assets';
-import { Aman,Nishant,Prashant,Samradh,Shrivardhan,Sagnika,Bhavya,Bhaskar,Suyash,Tamsa,Shivang,Aarav,Harsh } from '../assets';
-import { fCoordinator, fcoCoordinator, pres, vice, gensec, contentlead, treasurer, designlead, discplinelead, financelead, electronicslead, logisticslead, prlead, programminglead,} from '../assets';
+import { fCoordinator, fcoCoordinator, pres, vice, gensec, contentlead, treasurer, designlead, discplinelead, financelead, electronicslead, logisticslead, prlead, programminglead,sociallead,} from '../assets';
 export const navLinks = [
     {
       id: "home",
@@ -41,91 +40,72 @@ export const navLinks = [
       description:""
     },
     {
-      name:"Shrivardhan Sharma",
+      name:"Arav Chouksey",
       role:"President",
-      photo:Shrivardhan,
+      photo:pres,
       description:""
     },
     {
-      name:"Prashant",
+      name:"Bhavya Pratap",
       role:"Vice-President",
-      photo:Prashant,
+      photo:vice,
       description:""
     },
     {
-      name:"Sagnika",
+      name:"Siddarth Dubey",
       role:"Electronics Head",
-      photo:Sagnika,
+      photo:electronicslead,
       description:""
     },
     {
-      name:"Nishant Kumar",
-      role:"Documentation Chief",
-      photo:Nishant,
-      description:""
-    },
-    {
-      name:"Charul Dongre",
-      role:"Documentation Head",
-      photo:Charul,
-      description:""
-    },
-    {
-      name:"Aman Deep Singh",
-      role:"Programming Chief",
-      photo:Aman,
-      description:""
-    },
-    {
-      name:"Shivang Shah",
+      name:"Anushrav Rathi",
       role:"Programming Head",
-      photo:Shivang,
+      photo:programminglead,
       description:""
     },
     {
-      name:"Samradh Jindal",
-      role:"Event Management Chief",
-      photo:Samradh,
+      name:"Vanshika Dhaka",
+      role:"Content Head",
+      photo:contentlead,
       description:""
     },
     {
-      name:"Suyash Bandi",
-      role:"Event Management Head",
-      photo:Suyash,
+      name:"Bharath",
+      role:"Design Head",
+      photo:designlead,
       description:""
     },
     {
-      name:"Harsh Rai",
-      role:"Event Management Co-Head",
-      photo:Harsh,
+      name:"Rujjul Saha ",
+      role:"Finance Head",
+      photo:financelead,
       description:""
     },
     {
-      name:"Aarav Chowksey",
-      role:"Event Management Co-Head",
-      photo:Aarav,
+      name:"Atharva Bhati",
+      role:"Logistics Head",
+      photo:logisticslead,
       description:"",
     },
     
     {
-      name:"Bhavya Pratap",
+      name:"Ekansh Sukla",
+      role:"PR & Outreach Head",
+      photo:prlead,
+      description:""
+    },
+    {
+      name:"Sparsh Joshi",
       role:"Social Media Head",
-      photo:Bhavya,
+      photo:sociallead,
       description:""
     },
     {
-      name:"Tamsa Sandeep Karwa",
-      role:"Social Media Co-Head",
-      photo:Tamsa,
+      name:"Archee paliwal",
+      role:"Discipline Head",
+      photo:discplinelead,
       description:""
     },
-    {
-      name:"Bhaskar Chari",
-      role:"Design Chief",
-      photo:Bhaskar,
-      description:""
-    },
-    
   ];
 
   const experiences = [
