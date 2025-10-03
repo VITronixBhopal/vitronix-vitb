@@ -52,6 +52,18 @@ export const navLinks = [
       description:""
     },
     {
+      name:"Aastha Patel",
+      role:"General Secretary",
+      photo:gensec,
+      description:""
+    },
+    {
+      name:"Aaditya Mehta",
+      role:"Treasurer",
+      photo:treasurer,
+      description:""
+    },
+    {
       name:"Siddarth Dubey",
       role:"Electronics Head",
       photo:electronicslead,
