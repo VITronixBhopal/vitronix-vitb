@@ -1,4 +1,4 @@
-import { innoxify1, xpotech1, xpotech2, xpotech3} from '../assets'
+import { innoxify1, xpotech1, xpotech2, xpotech3, battlebots1, battlebots2} from '../assets'
 import { xpotech,innoxify,electro,circuit,nova,sky} from '../assets';
 import { favicon } from '../assets';
 import { fCoordinator, fcoCoordinator, pres, vice, gensec, contentlead, treasurer, designlead, discplinelead, financelead, electronicslead, logisticslead, prlead, programminglead,sociallead,jointsec,} from '../assets';
@@ -128,6 +128,21 @@ export const navLinks = [
 
   const experiences = [
       
+    {
+      title: "BATTLEBOTS 2026",
+      icon: favicon,
+      iconBg: "#383E56",
+      date: "26th January 2026",
+      photo: battlebots1,
+      carousel: [battlebots1, battlebots2],
+      points: [
+        "Metal warriors going head-to-head in 1v1 arena battles at ARCH 202 starting at 10:30 AM.",
+        "3 rounds of pure mayhem - one shot to win, lose and you're out.",
+        "Teamwork is KEY - communicate, strategize, and dominate the arena.",
+        "Quick thinking + smart moves = walking away with the victory.",
+        "Register at https://forms.gle/4uDsTqZV7LuGCL7o6 and join the WhatsApp group for live updates.",
+      ],
+    },
     {
       title: "ELECTRO NOVA",
       icon: favicon,
